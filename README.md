@@ -33,7 +33,7 @@
 
 2. **Run the script**  
    ```bash
-   python3 quote_wallpaper_generator.py quotes.txt
+   python3 quotes_wallpaper_generator.py quotes.txt
    ```
 
 3. **Find wallpapers in the `wallpapers/` folder**  
